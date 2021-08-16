@@ -1,6 +1,7 @@
   
 // If we need to use custom DOM library, let's save it to $$ variable:
 var $$ = Dom7;
+console.log('fran')
 
 var app = new Framework7({
     // App root element
